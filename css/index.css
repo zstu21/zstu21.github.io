@@ -5214,7 +5214,7 @@ blockquote.pullquote.right {
   --timeline-bg: #1f1f1f;
 }
 [data-theme='dark'] #web_bg {
-  background-image: url("https://github.com/zstu21/image/blob/main/img/bg1.jpg");
+  background-image: url("https://raw.githubusercontent.com/zstu21/image/main/img/bg1.jpg");
   background-size: 100% 100%;
   background-size: cover;
   background-repeat: no-repeat center;
